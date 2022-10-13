@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_testing123_0.user" name="x_snc_testing123_0.user">0ad691641be2d1506c3a9868b04bcb10</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-10-11 18:07:35</sys_created_on>
+        <sys_id>82d691641be2d1506c3a9868b04bcb11</sys_id>
+        <sys_name>0ad691641be2d1506c3a9868b04bcb10</sys_name>
+        <sys_package display_value="testing123445" source="x_snc_testing123_0">c6d651641be2d1506c3a9868b04bcb7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing123445">c6d651641be2d1506c3a9868b04bcb7e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_82d691641be2d1506c3a9868b04bcb11</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
