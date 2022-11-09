@@ -22,7 +22,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_testing123_0</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000003976</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
@@ -35,6 +35,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
